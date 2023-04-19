@@ -16,6 +16,7 @@ import screens.NotesScreen
 import screens.TrashScreen
 import ui.components.SaveNoteScreen
 
+
 /**
  * Main activity приложения.
  */
