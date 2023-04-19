@@ -17,7 +17,7 @@ import com.topic2.android.notes.util.fromHex
 @OptIn(ExperimentalMaterialApi::class)
 @Composable
 fun Note (
-
+    modifier: Modifier = Modifier,
     note: NoteModel,
     onNoteClick: (NoteModel) -> Unit = {},
     onNoteCheckedChange: (NoteModel) -> Unit = {},

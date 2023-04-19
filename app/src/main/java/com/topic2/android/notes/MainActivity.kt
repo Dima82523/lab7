@@ -15,7 +15,7 @@ import com.topic2.android.notes.viewmodel.MainViewModelFactory
 import screens.NotesScreen
 import screens.TrashScreen
 import ui.components.SaveNoteScreen
-import ui.components.TrashScreen
+
 
 /**
  * Main activity приложения.
